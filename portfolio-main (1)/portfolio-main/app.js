@@ -224,7 +224,7 @@ function initContactForm() {
         const body = `Name: ${name}\nEmail: ${email}\n\n${message}`;
         
         // Opens default mail client
-        window.open(`mailto:roycenoel2001@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`);
+        window.open(`mailto:faizahmedm2526@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`);
     });
 }
 
